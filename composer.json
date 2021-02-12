@@ -1,5 +1,5 @@
 {
-    "name": "symfony/serializer",
+    "name": "angemon/serializer",
     "type": "library",
     "description": "Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.",
     "keywords": [],
